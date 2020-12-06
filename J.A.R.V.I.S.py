@@ -421,7 +421,7 @@ if __name__ == '__main__':
             app_id = wolframalpha.Client('W65E7U-T34GR2JGTW') #This helps us to connect us with wolframalpha.com
             res = app_id.query(question) #Here we send our question.
             print(next(res.results).text) #Here we get our results.
-            speak(next(res.results).text) #this speakes those results.
+            speak(next(res.results).text) #this speakes those results..
 
 
 
