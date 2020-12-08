@@ -17,8 +17,8 @@
 13.) wolframalpha- It is used to compute expert-level answers using Wolfram’s algorithms, knowledgebase and AI technology.<br />
 14.) tkinter - It is used for building GUI (Graphical User Interface.)<br />
 15.) smtplib - The smtplib module defines an SMTP client session object that can be used to send mail to any Internet machine with an SMTP (Server Mail Transfer Protocol).***
-***# It can do following Tasks:-
-1.)It Greets me according to current hour going on.<br />
+# It can do following Tasks:-
+***1.)It Greets me according to current hour going on.<br />
 2.) It searches anything from wikipedia for eg.-if we search "sharukh khan wikipedia" then it grabs information
 from wikipedia and speak the desired results.<br />
 3.) It can search those website which I use frequently and can search total 30 websites
