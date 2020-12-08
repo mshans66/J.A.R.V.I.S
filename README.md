@@ -16,4 +16,4 @@
 12.) time - time module provides many ways of representing time in code, such as objects, numbers, and strings. It also provides functionality other than representing time, like waiting during code execution and measuring the efficiency of your code.<br />
 13.) wolframalpha- It is used to compute expert-level answers using Wolfram’s algorithms, knowledgebase and AI technology.<br />
 14.) tkinter - It is used for building GUI (Graphical User Interface.)<br />
-<span style="color: green">15.) smtplib - The smtplib module defines an SMTP client session object that can be used to send mail to any Internet machine with an SMTP (Server Mail Transfer Protocol).</span>***
+15.) smtplib - The smtplib module defines an SMTP client session object that can be used to send mail to any Internet machine with an SMTP (Server Mail Transfer Protocol).***
