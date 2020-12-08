@@ -17,3 +17,22 @@
 13.) wolframalpha- It is used to compute expert-level answers using Wolfram’s algorithms, knowledgebase and AI technology.<br />
 14.) tkinter - It is used for building GUI (Graphical User Interface.)<br />
 15.) smtplib - The smtplib module defines an SMTP client session object that can be used to send mail to any Internet machine with an SMTP (Server Mail Transfer Protocol).***
+***# It can do following Tasks:-
+1.)It Greets me according to current hour going on.<br />
+2.) It searches anything from wikipedia for eg.-if we search "sharukh khan wikipedia" then it grabs information
+from wikipedia and speak the desired results.<br />
+3.) It can search those website which I use frequently and can search total 30 websites
+for eg.- if wi say "open facebook", then it opens facebook for me.<br />
+4.) It tells me current time like if I say "tell the time", then it tells time to me.<br />
+5.) It can open programs which I use most like pycharm, python IDE, whatsapp etc.<br />
+6.) It can talk to me like my friend.<br />
+7.) It can search anything on my default web browser for eg.- if I say "I want to find something" and then give
+it command like "What is capital of India" then it tells me the answer of that question.<br />
+8.) It can open my favourite you tube channels like if I say "expert I youtube" then it opens that.<br />
+9.) Just by saying "tell me a joke" it tells me very funny jokes.<br />
+10.) It can play my favourite musics and songs like if I say "play music", then it plays music or if I say
+"play first song" or "play second song", then it plays likewise.<br />
+11.) It can send email to others and that's true!!!<br />
+12.) Using wolframalpha module it can tell answer to any question whether it's related to mathematics, science
+and technology, society and culture or everyday life.<br />
+13.) It can also tell latest news from different news media companies like hindustan times, zee news etc.<br />
