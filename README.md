@@ -36,3 +36,41 @@ it command like "What is capital of India" then it tells me the answer of that q
 12.) Using wolframalpha module it can tell answer to any question whether it's related to mathematics, science
 and technology, society and culture or everyday life.<br />
 13.) It can also tell latest news from different news media companies like hindustan times, zee news etc.<br />***
+# Dependencies
+***There are some dependencies which are required to run this program. These dependencies are given below:-<br />
+1.) Many modules are required for this program. These modules are given below:-<br />
+&nbsp; &nbsp; &nbsp;#pyttsx3<br />
+&nbsp; &nbsp; &nbsp;#speech_recognition<br />
+&nbsp; &nbsp; &nbsp;#wikipedia<br />
+&nbsp; &nbsp; &nbsp;#webbrowser<br />
+&nbsp; &nbsp; &nbsp;#pywhatkit<br />
+&nbsp; &nbsp; &nbsp;#pyjokes<br />
+&nbsp; &nbsp; &nbsp;#requests<br />
+&nbsp; &nbsp; &nbsp;#json<br />
+&nbsp; &nbsp; &nbsp;#wolframalpha<br />
+&nbsp; &nbsp; &nbsp;#tkinter<br />
+&nbsp; &nbsp; &nbsp;#smtplib<br />
+2.)You have to create an account on the following websites:-<br />
+&nbsp; &nbsp; &nbsp;#https://newsapi.org
+&nbsp; &nbsp; &nbsp;#https://www.wolframalpha.com
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
