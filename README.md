@@ -35,4 +35,4 @@ it command like "What is capital of India" then it tells me the answer of that q
 11.) It can send email to others and that's true!!!<br />
 12.) Using wolframalpha module it can tell answer to any question whether it's related to mathematics, science
 and technology, society and culture or everyday life.<br />
-13.) It can also tell latest news from different news media companies like hindustan times, zee news etc.<br />
+13.) It can also tell latest news from different news media companies like hindustan times, zee news etc.<br />***
