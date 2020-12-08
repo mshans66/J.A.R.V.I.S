@@ -50,16 +50,16 @@ and technology, society and culture or everyday life.<br />
 &nbsp; &nbsp; &nbsp;#wolframalpha<br />
 &nbsp; &nbsp; &nbsp;#tkinter<br />
 &nbsp; &nbsp; &nbsp;#smtplib<br />
-you can download these modules by writing the following command in your command prompt or windows powershell:-
+you can download these modules by writing the following command in your command prompt or windows powershell:-<br />
 pip install name_of_module<br />
 2.)You have to create an account on the following websites:-<br />
 &nbsp; &nbsp; &nbsp;#https://newsapi.org<br />
 &nbsp; &nbsp; &nbsp;#https://www.wolframalpha.com<br />
 after creating account on these websites, you will get an API key from both the websites. You have to just replace my API key with your API key.<br />
 3.)PyAudio could not be downloaded using the pip command. To download this, you have to follow the steps given below:-<br />
-&nbsp; &nbsp; &nbsp;1st step- Click this link:https://www.lfd.uci.edu/~gohlke/pythonlibs/
-&nbsp; &nbsp; &nbsp;2nd step- search for pyaudio.
-&nbsp; &nbsp; &nbsp;3rd step- Download PyAydio according to the conditions.
-&nbsp; &nbsp; &nbsp;4th step- After successful installation, open it in a folder and in that folder open the command prompt or windows powershell.
-&nbsp; &nbsp; &nbsp;5th step- In the command prompt or windows powershell, type, pip install PyAudio and then press tab and enter.
+&nbsp; &nbsp; &nbsp;1st step- Click this link:https://www.lfd.uci.edu/~gohlke/pythonlibs/<br />
+&nbsp; &nbsp; &nbsp;2nd step- search for pyaudio.<br />
+&nbsp; &nbsp; &nbsp;3rd step- Download PyAydio according to the conditions.<br />
+&nbsp; &nbsp; &nbsp;4th step- After successful installation, open it in a folder and in that folder open the command prompt or windows powershell.<br />
+&nbsp; &nbsp; &nbsp;5th step- In the command prompt or windows powershell, type, pip install PyAudio and then press tab and enter.<br />
 &nbsp; &nbsp; &nbsp;6th step- The installation again starts. Now, finally your pyaudio is downloaded successfully.***
